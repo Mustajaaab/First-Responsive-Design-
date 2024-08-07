@@ -1,0 +1,1692 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F6F9FE;
+}
+.section1{
+    background: #F6F9FE;
+    display: grid;
+    justify-content: center;
+    width: 100%;
+}
+.main-logo{
+    display: flex;
+    gap: 20px;
+}
+.buttons-and-links{
+    display: flex;
+    gap: 20px;
+}
+.links{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    font-family: "Archivo";
+}
+.links li {
+    color: #657FB3;
+    margin-top: 19px;
+}
+.navbar{
+    display: flex;
+    margin-top: 20px;
+    gap: 280px;
+}
+#logooo{
+    width: 70px;
+    height: 50px;
+}
+#github-logo{
+    width: 50px;
+    height: 50px;
+}
+.head-logo{
+    font-family: "Archivo";
+    margin-top: 15px;
+    color: #0D3380;
+
+}
+.log-in{
+    width: 120px;
+    height: 50px;
+    border: 1px solid #0D3380;
+    font-size: 15px;
+    color: #0D3380;
+    text-decoration: none;
+    border-radius: 20px;
+}
+.button-and-githublogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.article-and-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+#containerr{
+    width: 400px;
+}
+.head{
+    font-family: "Archivo";
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: left;
+
+    color: #0D3380;
+}
+#platform{
+    color: #1A66FF;
+
+}
+.para{
+    color: #657FB3;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 42px;
+    text-align: left;
+    font-family: "Archivo";
+    margin-top: 20px;
+}
+.three-minutes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 50px;
+    background-color: #1A66FF;
+    text-decoration: none;
+    border: none;
+    border-radius: 25px;
+    font-size: 17px;
+    color: #F6F9FE;
+    font-family: "Archivo";
+}
+.the-button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.section2{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.all-text{
+    text-align: center;
+    margin-top: 60px;
+}
+.main-head{
+    font-family: "Archivo";
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 63px;
+    text-align: center;
+    color: #0D3380;
+
+}
+.short-text{
+    font-family: "Archivo";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 42px;
+    color: #0D3380;
+    margin-top: 15px;
+}
+.last-text{
+    font-family: "Archivo";
+    font-size: 16px;    
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    color: #657FB3;
+}
+.open-design-image{
+    width: 592px;
+    height: 304px;
+    margin-top: 17px;
+
+}
+.open-design{
+    display: flex;
+    margin-top: 60px;
+}
+.subs p{
+    font-family: "Archivo";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 106px;
+    text-align: left;
+}
+.lower-button{
+    width: 400px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 40px;
+}
+.Open-d-in-action{
+    font-size: 20px;
+    text-decoration: none;
+    color: #1A66FF;
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+}
+.section3{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.image-side{
+    width: 379px;
+}
+.upper{
+    display: flex;
+    gap: 200px;
+    margin-top: 150px;
+}
+.heead{
+    font-size: 56px;
+    font-family: "Archivo";
+    color: #0D3380;
+}
+.paragraphh{
+    font-size: 16px;
+    font-family: "Archivo";
+    color: #0D3380;
+    font-weight: 500;
+    line-height: 25px;
+    margin-top: 17px;
+}
+.para-lit{
+    font-size: 16px;
+    font-family: "Archivo";
+    color: #657FB3;
+    font-weight: 500;
+    line-height: 25px;
+    margin-top: 17px;
+}
+.same-button{
+    font-size: 16px;
+    font-family: "Archivo";
+    color: #1A66FF;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+    line-height: 56px;
+    background-color: #F6F9FE;
+}
+.mid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 150px;
+}
+.lowerrr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 370px;
+    margin-top: 150px;
+}
+.image-space{
+    width: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#small-third-image{
+    width: 250px;
+}
+.image-space-two{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section4{
+    background-color: #0E1520;
+    margin-top: 120px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.upper-texts{
+    text-align: center;
+    margin-top: 60px;
+}
+.small-sentences{
+    font-family: "Archivo";
+    font-weight: 600;
+    font-size: 16px;
+    color: #F6F9FE;
+    line-height: 25px;
+    margin-top: 20px;
+}
+.small-sentence{
+    font-family: "Archivo";
+    font-weight: 500;
+    font-size: 16px;
+    color: #F6F9FE;
+    line-height: 25px;
+}
+.center-head{
+    font-family: "Archivo";
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 63px;
+    text-align: center;
+    color: #F6F9FE;
+    margin-top: 10px;
+}
+.mid-banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+
+#banner{
+    width: 70%;
+}
+.gr-outer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gradient{
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    padding-bottom: 150px;
+}
+.gradient{
+    background: linear-gradient(to top,#010102 0%, #051c4b 56%);
+    border: 1px solid;
+    padding-top: 140px;
+}
+.main-sentence{
+    font-family: "Archivo";
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+.case-study-button{
+    width: 150px;
+    height: 56px;
+    background-color: transparent;
+    border: none;
+    color: #FFFFFF;
+    font-family: "Archivo";
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 56px;
+    font-weight: 500;
+}
+.second-para{
+    color: #FFFFFF;
+    font-family: "Archivo";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+}
+#circle{
+    width: 46px;
+    height: 46px;
+}
+.description-by{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+#Alan{
+    font-family: "Archivo";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25px;
+}
+#post{
+    font-family: "Archivo";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+
+.section5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-box{
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(108.29deg, rgba(13, 51, 128, 0.09) 34.25%, rgba(251, 251, 251, 0) 99.09%);
+    margin-top: 70px;
+    padding-top: 70px;
+    gap: 100px;
+    padding-bottom: 70px;
+}
+.article{
+    font-family: "Archivo";
+    font-size: 43px;
+    font-weight: 600;
+    line-height: 63px;
+    text-align: left;
+
+}
+#Ready{
+    font-family: "Archivo";
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 63px;
+    text-align: left;
+    color: #1A66FF;
+}
+.two-button{
+    width: 235px;
+    height: 65px;
+    border: none;
+    border-radius: 28px;
+    font-family: "Archivo";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 56px;
+    text-decoration: none;
+    background-color: #1A66FF;
+    color: #FFFFFF;
+}
+.two-buttons{
+    width: 235px;
+    height: 65px;
+    border: none;
+    border-radius: 28px;
+    font-family: "Archivo";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 56px;
+    text-decoration: none;
+    background-color: #F6F9FE;
+    color: #1A66FF;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 30px;
+}
+.mountain{
+    width: 397px;
+    height: 310px;
+}
+.section6{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 85%;
+    display: flex;
+    gap: 70px;
+    margin-top: 70px;
+}
+.upper-foot{
+    display: flex;
+    gap: 70px;
+}
+.lower-foot{
+    display: flex;
+    gap: 70px;
+}
+#logo{
+    width: 56px;
+    height: 35px;
+}
+.titles{
+    font-family: "Archivo";
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+    color: #0D3380;
+}
+.tags{
+    font-family: "Archivo";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    color: #657FB3;
+}
+.last-data{
+    font-family: "Archivo";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: left;
+    color: #495469;
+    margin-top: 100px;
+    margin-bottom: 50px ;
+}
+.fut{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.contain-fut{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.made{
+    font-family: "Archivo";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: left;
+    color: #495469;
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-bottom: 50px ;
+}
+
+@media screen and (max-width: 320px) {
+    .section1 {
+        background: #F6F9FE;
+        display: grid;
+        justify-content: center;
+        width: 755px;
+    }
+    .navbar{
+        display: none;
+    }
+    .head {
+        font-family: "Archivo";
+        font-size: 70px;
+        font-weight: 600;
+        line-height: 86px;
+        text-align: center;
+        color: #0D3380;
+        margin-top: 40px;
+    }
+    .para {
+        color: #657FB3;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 42px;
+        text-align: center;
+        font-family: "Archivo";
+        margin-top: 20px;
+    }
+    .article-and-image {
+        display: block;
+    }
+    #containerr {
+        width: 380px;
+        padding-left: 150px;
+    }
+    .three-minutes {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 307px;
+        height: 80px;
+        background-color: #1A66FF;
+        text-decoration: none;
+        border: none;
+        border-radius: 25px;
+        font-size: 23px;
+        color: #F6F9FE;
+        font-family: "Archivo";
+    }
+    .section2{
+        width: 755px;
+    }
+    .main-head {
+        font-family: "Archivo";
+        font-size: 66px;
+        font-weight: 600;
+        line-height: 73px;
+        text-align: center;
+        color: #0D3380;
+    }
+    .short-text{
+        font-size: 17px;
+    }
+    .last-text{
+        font-size: 17px;
+    }
+    .open-design-image {
+        width: 518px;
+        height: 266px;
+        margin-top: 34px;
+    }
+    .subs p {
+        font-family: "Archivo";
+        font-size: 17px;
+        font-weight: 500;
+        line-height: 106px;
+        text-align: left;
+    }
+    .Open-d-in-action {
+        font-size: 22px;
+    }
+    .section3{
+        width: 755px;
+    }
+    .heead {
+        font-size: 50px;
+        text-align: center;
+        font-family: "Archivo";
+        color: #0D3380;
+    }
+    .paragraphh {
+        font-size: 19px;
+        text-align: center;
+    }
+
+    .para-lit {
+        font-size: 20px;
+        text-align: center;
+    }
+    .same-button {
+        font-size: 18px;
+        text-align: center;
+        width: 100%;
+    }
+    .image-side {
+        width: 425px;
+        padding-left: 78px;
+        margin-top: 20px;
+    }
+    .upper {
+        display: block;
+        margin-top: 150px;
+    }
+    .image-space {
+        width: 546px;
+        margin-bottom: 65px;
+    }
+    .mid {
+        display: block;
+    }
+    .lowerrr {
+        display: block;
+    }
+    #small-third-image {
+        width: 193px;
+    }
+    .image-space-two {
+        width: 581px;
+        margin-top: 66px;
+    }
+    .section4{
+        width: 755px;
+    }
+    .small-sentence {
+        font-size: 20px;
+    }
+        .center-head {
+        font-size: 47px;
+        line-height: 52px;
+    }
+    .small-sentences {
+        font-size: 20px;
+    }
+    .mid-banner{
+        margin-top: 41px;
+    }
+    .main-sentence {
+        font-size: 36px;
+        line-height: 42px;
+    }
+    #banner {
+        width: 85%;
+    }
+    .case-study-button {
+        width: 233px;
+        font-size: 22px;
+        line-height: 62px;
+    }
+    .second-para {
+        font-size: 20px;
+        line-height: 32px;
+        margin-top: 40px;
+    }
+    #Alan {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    #post {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .gradient {
+        display: block;
+        text-align: center;
+    }
+    .description-by {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        margin-top: 44px;
+        justify-content: center;
+    }
+    #circle {
+        width: 60px;
+        height: 60px;
+    }
+    .section5{
+        width: 755px;
+    }
+    .article {
+        font-size: 44px;
+        line-height: 48px;
+        text-align: center;
+    }
+    #Ready {
+        font-size: 71px;
+        text-align: center;
+        line-height: 113px;
+    }
+    .two-button {
+        width: 193px;
+        font-size: 26px;
+    }
+    .two-buttons {
+        width: 193px;
+        font-size: 26px;
+    }
+    .buttons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 26px;
+        margin-top: 30px;
+    }
+    .mountain {
+        width: 323px;
+        height: 295px;
+        margin-top: 40px;
+        margin-left: 163px;
+    }
+    .main-box {
+        display: block;
+    }
+    .section6{
+        width: 755px;
+    }
+    .titles {
+        font-size: 25px;
+    }
+    .tags {
+        font-size: 18px;
+    }
+    #logo {
+        width: 60px;
+        height: 41px;
+    }
+    .container {
+        width: 85%;
+        display: block;
+        margin-top: 70px;
+    }
+    .upper-foot{
+        display: flex;
+        gap: 150px;
+    }
+    .lower-foot {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    .fut{
+        width: 755px;
+    }
+    .last-data {
+        font-size: 14px;
+    }
+}
+
+
+
+@media screen and (max-width: 425px) and (min-width: 321px) {
+    .section1{
+        width: 776px;
+    }
+    .navbar{
+        display: none;
+    }
+    .head {
+        font-size: 84px;
+        text-align: center;
+        line-height: 72px;
+        margin-top: 60px;
+    }
+    .para {
+        font-size: 25px;
+        text-align: center;
+    }
+    #containerr {
+        width: 400px;
+        padding-left: 111px;
+    }
+    .article-and-image {
+        display: block;
+    }
+    .three-minutes {
+        width: 260px;
+        height: 66px;
+        font-size: 21px;
+    }
+    .section2{
+        width: 776px;
+    }
+    .main-head {
+        font-size: 64px;
+        line-height: 66px;
+    }
+    .short-text {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .last-text {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .open-design-image {
+        width: 520px;
+        height: 243px;
+    }
+    .subs p {
+        font-size: 16px;
+        line-height: 91px;
+    }
+    .Open-d-in-action {
+        font-size: 21px;
+    }
+    .section3{
+        width: 776px;
+    }
+    .heead {
+        font-size: 45px;
+        text-align: center;
+    }
+    .paragraphh {
+        font-size: 17px;
+        text-align: center;
+    }
+    .para-lit {
+        font-size: 16px;
+        text-align: center;
+    }
+    .same-button {
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .image-side {
+        width: 349px;
+        padding-left: 53px;
+    }
+    .image-space-two {
+        width: 387px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .upper {
+        display: block;
+    }
+    .mid {
+        display: block;
+    }
+    .image-space {
+        width: 380px;
+        margin-bottom: 46px;
+    }
+    .lowerrr {
+        display: block;
+    }
+    #small-third-image {
+        width: 205px;
+    }
+    .section4{
+        width: 776px;
+    }
+    .small-sentence {
+        font-size: 17px;
+        line-height: 7px;
+    }
+    .center-head {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .small-sentences {
+        font-size: 17px;
+        line-height: 22px;
+        margin-top: 14px;
+    }
+    #banner {
+        width: 78%;
+    }
+    .gradient {
+        padding-top: 90px;
+        display: block;
+        padding-bottom: 90px;
+    }
+    .main-sentence {
+        font-size: 32px;
+        line-height: 35px;
+        text-align: center;
+    }
+    .case-study-button {
+        font-size: 19px;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    .second-para {
+        font-size: 17px;
+        line-height: 27px;
+        text-align: center;
+        margin-top: 14px;
+    }
+    .description-by {
+        display: flex;
+        align-items: center;
+        gap: 23px;
+        margin-top: 20px;
+        justify-content: center;
+    }
+    #circle {
+        width: 40px;
+        height: 40px;
+    }
+    #Alan {
+        font-size: 14px;
+    }
+    #post {
+        font-size: 12px;
+    }
+    .section5{
+        width: 776px;
+    }
+    .article {
+        font-size: 41px;
+        line-height: 46px;
+        text-align: center;
+    }
+    #Ready {
+        font-size: 69px;
+        line-height: 90px;
+        text-align: center;
+    }
+    .two-button {
+        width: 210px;
+        height: 53px;
+        font-size: 24px;
+    }
+    .two-buttons {
+        width: 210px;
+        height: 53px;
+        font-size: 24px;
+    }
+    .mountain {
+        width: 304px;
+        height: 266px;
+        margin-top: 44px;
+        padding-left: 175px;
+    }
+    .main-box {
+        display: block;
+    }
+    .section6 {
+        width: 776px;
+    }
+    .container {
+        width: 85%;
+        display: block;
+        gap: 70px;
+        margin-top: 70px;
+    }
+    .upper-foot{
+        display: flex;
+        gap: 188px;
+    }
+    .lower-foot{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+    #logo {
+        width: 38px;
+        height: 25px;
+    }
+    .titles {
+        font-size: 24px;
+    }
+    .tags {
+        font-size: 14px;
+        width: 123px;
+        line-height: 36px;
+    }
+    .fut {
+        width: 776px;
+    }
+    .last-data {
+        font-size: 13px;
+    }
+    .made {
+        font-size: 13px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 640px) and (min-width: 426px) {
+    .section1{
+        width: 882px;
+    }
+    #logooo {
+        width: 36px;
+        height: 22px;
+        margin-top: 12px;
+        margin-left: 20px;
+    }
+    .head-logo {
+        font-size: 18px;
+    }
+    .links li {
+        font-size: 11px;
+
+    }
+    .links{
+        gap: 20px;
+    }
+    .log-in {
+        width: 73px;
+        height: 36px;
+        font-size: 11px;
+    }
+    .button-and-githublogo {
+        gap: 5px;
+    }
+    #github-logo {
+        width: 40px;
+        height: 40px;
+    }
+    .navbar {
+        gap: 169px;
+    }
+    .head {
+        font-size: 42px;
+        line-height: 49px;
+    }
+    .para {
+        font-size: 12px;
+        line-height: 28px;
+    }
+    #containerr {
+        width: 334px;
+    }
+    .article-and-image {
+        gap: 109px;
+    }
+    .three-minutes {
+        width: 168px;
+        height: 40px;
+        font-size: 11px;
+    }
+    .section2 {
+        width: 882px;
+    }
+    .main-head {
+        font-size: 43px;
+        line-height: 48px;
+    }
+    .short-text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .last-text {
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .open-design-image {
+        width: 529px;
+        height: 253px;
+    }
+    .subs p {
+        font-size: 12px;
+        line-height: 89px;
+    }
+    .Open-d-in-action {
+        font-size: 15px;
+    }
+    .section3{
+        width: 882px;
+    }
+    .heead {
+        font-size: 34px;
+    }
+    .paragraphh {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .para-lit {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .same-button {
+        font-size: 13px;
+        line-height: 50px;
+    }
+    .image-side {
+        width: 302px;
+    }
+    .upper {
+        gap: 90px;
+        justify-content: center;
+    }
+    .mid {
+        gap: 90px;
+    }
+    .image-space {
+        width: 312px;
+    }
+    .lowerrr {
+        gap: 90px;
+    }
+    #small-third-image {
+        width: 202px;
+    }
+
+    .section4{
+        width: 882px;
+    }
+    .small-sentence {
+        font-size: 12px;
+        line-height: 11px;
+    }
+    .center-head {
+        font-size: 40px;
+        line-height: 47px;
+    }
+    .small-sentences {
+        font-size: 12px;
+        line-height: 17px;
+        margin-top: 13px;
+    }
+    .gradient {
+        gap: 59px;
+        padding-bottom: 90px;
+    }
+
+    .main-sentence {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .case-study-button {
+        width: 147px;
+        font-size: 14px;
+    }
+    .second-para {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    #circle {
+        width: 40px;
+        height: 40px;
+    }
+    #Alan {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    #post {
+        font-size: 11px;
+    }
+
+    .section5{
+        width: 882px;
+    }
+    .article {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    #Ready {
+        font-size: 49px;
+        line-height: 59px;
+    }
+    .two-button {
+        width: 160px;
+        height: 57px;
+        font-size: 17px;
+    }
+    .two-buttons {
+        width: 160px;
+        height: 57px;
+        font-size: 17px;
+    }
+    .mountain {
+        width: 323px;
+        height: 258px;
+    }
+    .main-box {
+        gap: 49px;
+    }
+
+
+    .section6{
+        width: 882px;
+    }
+    .container {
+        gap: 63px;
+    }
+    #logo {
+        width: 37px;
+        height: 27px;
+    }
+    .tags {
+        font-size: 9px;
+        line-height: 26px;
+    }
+    .titles {
+        font-size: 15px;
+        line-height: 40px;
+    }
+    .fut{
+        width: 882px;
+    }
+    .last-data {
+        font-size: 8px;
+        margin-top: 64px;
+        margin-bottom: 0px;
+    }
+    .made{
+        font-size: 8px;
+        margin-top: 64px;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) and (min-width: 641px) {
+    .section1 {
+        width: 921px;
+    }
+    #logooo {
+        width: 46px;
+        height: 33px;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .navbar{
+        gap: 110px;
+    }
+    .head-logo {
+        font-size: 20px;
+    }
+    .links li {
+        font-size: 13px;
+    }
+    .log-in {
+        width: 81px;
+        height: 41px;
+        font-size: 13px;
+    }
+    #github-logo {
+        width: 40px;
+        height: 42px;
+    }
+    .article-and-image {
+        gap: 115px;
+    }
+    .head {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    .para {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    #containerr {
+        width: 340px;
+    }
+    .three-minutes {
+        width: 182px;
+        height: 39px;
+        font-size: 11px;
+    }
+    .section2 {
+        width: 921px;
+    }
+    .main-head {
+        font-size: 42px;
+        line-height: 39px;
+    }
+    .short-text {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .last-text {
+        font-size: 12px;
+        line-height: 17px;
+        margin-top: 10px;
+    }
+    .open-design-image {
+        width: 523px;
+        height: 231px;
+    }
+    .subs p {
+        font-size: 11px;
+        line-height: 82px;
+    }
+    .Open-d-in-action {
+        font-size: 16px;
+    }
+
+    .section3{
+        width: 921px;
+    }
+    .heead {
+        font-size: 38px;
+    }
+    .paragraphh {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .para-lit {
+        font-size: 13px;
+        line-height: 18px;
+        margin-top: 14px;
+    }
+    .same-button {
+        font-size: 12px;
+        line-height: 45px;
+    }
+    .image-side {
+        width: 310px;
+    }
+    .upper {
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    .mid {
+        gap: 50px;
+    }
+    .image-space {
+        width: 317px;
+    }
+    .lowerrr {
+        gap: 90px;
+    }
+    #small-third-image {
+        width: 180px;
+    }
+
+    .section4{
+        width: 921px;
+    }
+    .small-sentence {
+        font-size: 11px;
+        line-height: 8px;
+    }
+    .center-head {
+        font-size: 37px;
+        line-height: 38px;
+        margin-top: 10px;
+    }
+    .small-sentences {
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 9px;
+    }
+    .mid-banner {
+        margin-top: 45px;
+    }
+    .gradient {
+        gap: 110px;
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    .main-sentence {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .case-study-button {
+        font-size: 13px;
+    }
+    .second-para {
+        font-size: 10px;
+        line-height: 17px;
+    }
+    #circle {
+        width: 40px;
+        height: 40px;
+    }
+    #Alan {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    #post {
+        font-size: 10px;
+        line-height: 25px;
+    }
+    .section5{
+        width: 921px;
+    }
+    .main-box {
+        gap: 30px;
+    }
+    .article {
+        font-size: 29px;
+        line-height: 37px;
+    }
+    #Ready {
+        font-size: 48px;
+    }
+    .two-button {
+        width: 169px;
+        height: 57px;
+        font-size: 15px;
+    }
+    .two-buttons {
+        width: 169px;
+        height: 57px;
+        font-size: 15px;
+    }
+    .mountain {
+        width: 354px;
+        height: 273px;
+    }
+    .section6{
+        width: 921px;
+    }
+    #logo {
+        width: 33px;
+        height: 26px;
+    }
+    .tags {
+        font-size: 9px;
+        line-height: 30px;
+    }
+    .titles {
+        font-size: 11px;
+        line-height: 35px;
+    }
+    .fut{
+        width: 921px;
+    }
+    .last-data {
+        font-size: 9px;
+        line-height: 25px;
+        margin-top: 80px;
+        margin-bottom: 30px;
+    }
+    .made {
+        font-size: 9px;
+        margin-top: 80px;
+        margin-left: 70px;
+        margin-bottom: 38px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+    .section1 {
+        width: 1024px;
+    }
+    .section2{
+        width: 1024px;
+    }
+    .section3{
+        width: 1024px;
+    }
+    .section4{
+        width: 1024px;
+    }
+    .section5{
+        width: 1024px;
+    }
+    .section6{
+        width: 1024px;
+    }
+    .fut{
+        width: 1024px;
+    }
+    .navbar {
+        gap: 138px;
+    }
+    #logooo {
+        width: 48px;
+        height: 30px;
+        margin-left: 40px;
+    }
+    .head-logo {
+        font-size: 18px;
+        margin-top: 9px;
+    }
+    .links li {
+        font-size: 14px;
+        margin-top: 13px;
+    }
+    .log-in {
+        width: 110px;
+        height: 39px;
+        font-size: 15px;
+    }
+    #github-logo {
+        width: 40px;
+        height: 40px;
+    }
+
+    .article-and-image {
+        gap: 167px;
+    }
+    .head {
+        font-size: 43px;
+        line-height: 44px;
+    }
+    .para {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    #containerr {
+        width: 350px;
+    }
+    .three-minutes {
+        width: 200px;
+        height: 44px;
+        font-size: 13px;
+    }
+    .main-head {
+        font-size: 40px;
+        line-height: 43px;
+    }
+    .short-text {
+        font-size: 11px;
+    }
+    .last-text {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .subs p {
+        font-size: 11px;
+        line-height: 87px;
+    }
+    .open-design-image {
+        width: 531px;
+        height: 246px;
+    }
+    .Open-d-in-action {
+        font-size: 16px;
+    }
+    .heead {
+        font-size: 40px;
+    }
+    .paragraphh {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .para-lit {
+        font-size: 13px;
+        line-height: 20px;
+        margin-top: 11px;
+    }
+    .same-button {
+        font-size: 12px;
+    }
+    .image-side {
+        width: 310px;
+    }
+    .upper {
+        display: flex;
+        gap: 70px;
+        justify-content: center;
+    }
+    .mid{
+        gap: 70px;
+    }
+    .image-space {
+        width: 355px;
+    }
+    .lowerrr {
+        gap: 160px;
+    }
+    #small-third-image {
+        width: 220px;
+    }
+    .small-sentence {
+        font-family: "Archivo";
+        font-weight: 500;
+        font-size: 10px;
+        color: #F6F9FE;
+        line-height: 25px;
+    }
+    .center-head {
+        font-size: 42px;
+        line-height: 42px;
+    }
+    .small-sentences {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .gradient {
+        gap: 120px;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .main-sentence {
+        font-size: 22px;
+        line-height: 27px;
+    }
+    .second-para {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .article {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    #Ready {
+        font-size: 44px;
+        font-weight: 600;
+        line-height: 53px;
+        text-align: left;
+        color: #1A66FF;
+    }
+    .two-button {
+        width: 173px;
+        height: 65px;
+        font-size: 20px;
+    }
+    .two-buttons {
+        width: 173px;
+        height: 65px;
+        font-size: 20px;
+    }
+    .mountain {
+        width: 325px;
+        height: 289px;
+    }
+
+    #logo {
+        width: 38px;
+        height: 27px;
+    }
+    .tags {
+        font-size: 12px;
+        line-height: 36px;
+    }
+    .titles {
+        font-size: 14px;
+    }
+}
+
+
+@media  (min-width: 1440px) {
+    #logooo {
+        width: 56px;
+        height: 36px;
+        margin-top: 10px;
+    }
+    .navbar {
+        gap: 340px;
+    }
+    .links {
+        gap: 37px;
+    }
+    .article-and-image {
+        gap: 250px;
+    }
+    .head {
+        font-size: 66px;
+        line-height: 66px;
+    }
+    #containerr {
+        width: 450px;
+    }
+    .main-head {
+        font-size: 66px;
+    }
+    .open-design-image {
+        width: 652px;
+        height: 320px;
+    }
+    
+    .lower-button {
+        width: 464px;
+    }
+    .Open-d-in-action {
+        font-size: 22px;
+    }
+}
